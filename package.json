@@ -1,0 +1,24 @@
+{
+  "name": "svstat",
+  "version": "0.0.1",
+  "description": "a node.js wrapper for daemontools svstat",
+  "main": "lib/svstat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peerigon/svstat.git"
+  },
+  "keywords": [
+    "daemon",
+    "daemontools",
+    "svstat",
+    "process",
+    "monitoring"
+  ],
+  "author": "Michael Jaser <michael.jaser@peerigon.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "22c9e2c875734aac99e60878b3378a3bd2d215ca"
+}
